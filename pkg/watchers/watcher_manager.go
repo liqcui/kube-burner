@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kube-burner/kube-burner/pkg/util"
+	"github.com/liqcui/kube-burner//pkg/util"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/time/rate"
 	corev1 "k8s.io/api/core/v1"

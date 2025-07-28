@@ -15,7 +15,7 @@ This document outlines the kube-burner security policy and describes the process
 
 We sincerely appreciate security researchers and users who report vulnerabilities to the kube-burner community. Every report is carefully reviewed by a team of kube-burner maintainers.
 
-Easiest way to report a vulnerability is through [Security Tab On Github](https://github.com/kube-burner/kube-burner/security/advisories). This mechanism allows maintainers to communicate privately with you, and you do not need to encrypt your messages. 
+Easiest way to report a vulnerability is through [Security Tab On Github](https://github.com/liqcui/kube-burner//security/advisories). This mechanism allows maintainers to communicate privately with you, and you do not need to encrypt your messages. 
 
 Alternatively you can also email the private security list at cncf-kube-burner-maintainers@lists.cncf.io
  with the details. Please do not discuss potential vulnerabilities in public without validating with us first.

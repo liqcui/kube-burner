@@ -19,5 +19,5 @@ $ make build
 Building bin/amd64/kube-burner
 GOPATH=/home/rsevilla/go/
 GOARCH=amd64 CGO_ENABLED=0 go build -v -ldflags "-X github.com/cloud-bulldozer/go-commons/version.GitCommit=4c9c3f43db83adb053efc58220ddd696d1d19a35 -X github.com/cloud-bulldozer/go-commons/version.BuildDate=2024-01-10-21:24:20 -X github.com/cloud-bulldozer/go-commons/version.Version=main" -o bin/amd64/kube-burner ./cmd/kube-burner
-github.com/kube-burner/kube-burner/cmd/kube-burner
+github.com/liqcui/kube-burner//cmd/kube-burner
 ```

@@ -31,8 +31,8 @@ import (
 	kubevirtV1 "kubevirt.io/api/core/v1"
 	"kubevirt.io/client-go/kubecli"
 
-	"github.com/kube-burner/kube-burner/pkg/config"
-	"github.com/kube-burner/kube-burner/pkg/util"
+	"github.com/liqcui/kube-burner//pkg/config"
+	"github.com/liqcui/kube-burner//pkg/util"
 )
 
 const (

@@ -37,7 +37,7 @@ The Kube-burner and its leadership embrace the following values:
 
 ## Maintainers
 
-Kube-burner Maintainers have write access to the [project GitHub repository](https://github.com/kube-burner/kube-burner).
+Kube-burner Maintainers have write access to the [project GitHub repository](https://github.com/liqcui/kube-burner/).
 They can merge their own patches or patches from others. The current maintainers
 can be found in [MAINTAINERS.md](./MAINTAINERS.md).  Maintainers collectively manage the project's
 resources and contributors.

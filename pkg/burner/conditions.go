@@ -17,7 +17,7 @@ package burner
 import (
 	"fmt"
 
-	"github.com/kube-burner/kube-burner/pkg/config"
+	"github.com/liqcui/kube-burner//pkg/config"
 )
 
 const (

@@ -1,6 +1,6 @@
 <img src='./media/horizontal/kube-burner-horizontal-color.png' width='65%'>
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/kube-burner/kube-burner)](https://goreportcard.com/report/github.com/kube-burner/kube-burner)
+[![Go Report Card](https://goreportcard.com/badge/github.com/liqcui/kube-burner/)](https://goreportcard.com/report/github.com/liqcui/kube-burner/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8264/badge)](https://www.bestpractices.dev/projects/8264)
 
@@ -29,7 +29,7 @@ Documentation is [available here](https://kube-burner.github.io/kube-burner/)
 
 In case you want to start tinkering with Kube-burner now:
 
-- You can find the binaries in the [releases section of the repository](https://github.com/kube-burner/kube-burner/releases).
+- You can find the binaries in the [releases section of the repository](https://github.com/liqcui/kube-burner//releases).
 - There's also a container image available at [quay](https://quay.io/repository/kube-burner/kube-burner?tab=tags).
 - Example configuration files can be found at the [examples directory](./examples).
 

@@ -1,5 +1,5 @@
 docs_dir: docs/
-repo_url: https://github.com/kube-burner/kube-burner
+repo_url: https://github.com/liqcui/kube-burner/
 nav:
 - Home: index.md
 - Command line: cli/index.md

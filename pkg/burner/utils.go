@@ -33,8 +33,8 @@ import (
 	"k8s.io/client-go/restmapper"
 	"k8s.io/kubectl/pkg/scheme"
 
-	"github.com/kube-burner/kube-burner/pkg/config"
-	"github.com/kube-burner/kube-burner/pkg/util"
+	"github.com/liqcui/kube-burner//pkg/config"
+	"github.com/liqcui/kube-burner//pkg/util"
 )
 
 const (

@@ -19,12 +19,12 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/kube-burner/kube-burner/pkg/burner"
-	"github.com/kube-burner/kube-burner/pkg/config"
-	"github.com/kube-burner/kube-burner/pkg/measurements"
-	"github.com/kube-burner/kube-burner/pkg/util"
-	"github.com/kube-burner/kube-burner/pkg/util/fileutils"
-	"github.com/kube-burner/kube-burner/pkg/util/metrics"
+	"github.com/liqcui/kube-burner//pkg/burner"
+	"github.com/liqcui/kube-burner//pkg/config"
+	"github.com/liqcui/kube-burner//pkg/measurements"
+	"github.com/liqcui/kube-burner//pkg/util"
+	"github.com/liqcui/kube-burner//pkg/util/fileutils"
+	"github.com/liqcui/kube-burner//pkg/util/metrics"
 	log "github.com/sirupsen/logrus"
 )
 

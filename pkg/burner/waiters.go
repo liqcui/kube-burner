@@ -31,8 +31,8 @@ import (
 	"k8s.io/apimachinery/pkg/labels"
 	"k8s.io/apimachinery/pkg/util/wait"
 
-	"github.com/kube-burner/kube-burner/pkg/burner/types"
-	"github.com/kube-burner/kube-burner/pkg/config"
+	"github.com/liqcui/kube-burner//pkg/burner/types"
+	"github.com/liqcui/kube-burner//pkg/config"
 )
 
 var (
