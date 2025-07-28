@@ -1,4 +1,4 @@
-module github.com/kube-burner/kube-burner
+module github.com/liqcui/kube-burner
 
 go 1.23.0
 
